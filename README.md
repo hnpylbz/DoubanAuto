@@ -43,3 +43,4 @@ Automatic Robot for Douban
 
 ## 版本历史
 - [V1.0](version/V1.0.md)
+测试一下git
